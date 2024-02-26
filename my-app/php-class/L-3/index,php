@@ -1,0 +1,15 @@
+<?php 
+
+	// echo 'hello, ninjas';
+
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Jim-creators</title>
+</head>
+<body>
+	<h1><?php echo 'hello, Mburu Jim' ?></h1>
+</body>
+</html>
